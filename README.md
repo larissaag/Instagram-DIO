@@ -1,9 +1,6 @@
 # Instagram-DIO 
 Esse projeto é uma página inspirada na landing page do instagram, foi feito para um curso da plataforma Digital Innovation One.
 
-
-## Liguagens usadas
-
 **-HTML**
 
 **-CSS**
